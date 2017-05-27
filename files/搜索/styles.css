@@ -2,8 +2,8 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-474px;
-  width:473px;
+  left:-500px;
+  width:420px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -12,43 +12,21 @@
   position:absolute;
   z-index:0;
 }
-#u489_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:473px;
-  height:954px;
-}
-#u489 {
-  position:absolute;
-  left:474px;
-  top:-104px;
-  width:473px;
-  height:954px;
-}
-#u490 {
-  position:absolute;
-  left:2px;
-  top:469px;
-  width:469px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u491_img {
+#u469_img {
   position:absolute;
   left:0px;
   top:0px;
   width:420px;
   height:477px;
 }
-#u491 {
+#u469 {
   position:absolute;
   left:500px;
   top:0px;
   width:420px;
   height:477px;
 }
-#u492 {
+#u470 {
   position:absolute;
   left:2px;
   top:230px;
@@ -56,21 +34,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u493_img {
+#u471_img {
   position:absolute;
   left:0px;
   top:0px;
   width:76px;
   height:35px;
 }
-#u493 {
+#u471 {
   position:absolute;
   left:504px;
   top:40px;
   width:76px;
   height:35px;
 }
-#u494 {
+#u472 {
   position:absolute;
   left:2px;
   top:10px;
@@ -78,21 +56,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u495_img {
+#u473_img {
   position:absolute;
   left:0px;
   top:0px;
   width:48px;
   height:35px;
 }
-#u495 {
+#u473 {
   position:absolute;
   left:860px;
   top:85px;
   width:48px;
   height:35px;
 }
-#u496 {
+#u474 {
   position:absolute;
   left:2px;
   top:10px;
@@ -100,14 +78,14 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u497 {
+#u475 {
   position:absolute;
   left:522px;
   top:91px;
   width:338px;
   height:21px;
 }
-#u497_input {
+#u475_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -123,24 +101,24 @@
   border-color:transparent;
   outline-style:none;
 }
-#u497_input {
+#u475_input {
   font-family:'应用字体';
 }
-#u498_img {
+#u476_img {
   position:absolute;
   left:0px;
   top:0px;
   width:48px;
   height:35px;
 }
-#u498 {
+#u476 {
   position:absolute;
   left:860px;
   top:439px;
   width:48px;
   height:35px;
 }
-#u499 {
+#u477 {
   position:absolute;
   left:2px;
   top:10px;
@@ -148,14 +126,14 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u500 {
+#u478 {
   position:absolute;
   left:522px;
   top:445px;
   width:338px;
   height:21px;
 }
-#u500_input {
+#u478_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -171,17 +149,17 @@
   border-color:transparent;
   outline-style:none;
 }
-#u500_input {
+#u478_input {
   font-family:'应用字体';
 }
-#u501 {
+#u479 {
   position:absolute;
   left:500px;
   top:477px;
   width:416px;
   height:264px;
 }
-#u501_input {
+#u479_input {
   position:absolute;
   left:0px;
   top:0px;

@@ -2,8 +2,8 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-474px;
-  width:473px;
+  left:-500px;
+  width:420px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -12,43 +12,21 @@
   position:absolute;
   z-index:0;
 }
-#u252_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:473px;
-  height:954px;
-}
-#u252 {
-  position:absolute;
-  left:474px;
-  top:-104px;
-  width:473px;
-  height:954px;
-}
-#u253 {
-  position:absolute;
-  left:2px;
-  top:469px;
-  width:469px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u255_img {
+#u241_img {
   position:absolute;
   left:0px;
   top:0px;
   width:420px;
   height:34px;
 }
-#u255 {
+#u241 {
   position:absolute;
   left:500px;
   top:0px;
   width:420px;
   height:34px;
 }
-#u256 {
+#u242 {
   position:absolute;
   left:2px;
   top:9px;
@@ -56,21 +34,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u257_img {
+#u243_img {
   position:absolute;
   left:0px;
   top:0px;
   width:420px;
   height:708px;
 }
-#u257 {
+#u243 {
   position:absolute;
   left:500px;
   top:34px;
   width:420px;
   height:708px;
 }
-#u258 {
+#u244 {
   position:absolute;
   left:2px;
   top:346px;
@@ -78,21 +56,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u259_img {
+#u245_img {
   position:absolute;
   left:0px;
   top:0px;
   width:76px;
   height:35px;
 }
-#u259 {
+#u245 {
   position:absolute;
   left:504px;
   top:38px;
   width:76px;
   height:35px;
 }
-#u260 {
+#u246 {
   position:absolute;
   left:2px;
   top:10px;
@@ -100,14 +78,14 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u261 {
+#u247 {
   position:absolute;
   left:630px;
   top:319px;
   width:200px;
   height:25px;
 }
-#u261_input {
+#u247_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -123,17 +101,17 @@
   border-color:transparent;
   outline-style:none;
 }
-#u261_input {
+#u247_input {
   font-family:'应用字体';
 }
-#u262 {
+#u248 {
   position:absolute;
   left:630px;
   top:445px;
   width:200px;
   height:25px;
 }
-#u262_input {
+#u248_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -149,24 +127,24 @@
   border-color:transparent;
   outline-style:none;
 }
-#u262_input {
+#u248_input {
   font-family:'应用字体';
 }
-#u263_img {
+#u249_img {
   position:absolute;
   left:0px;
   top:0px;
   width:160px;
   height:45px;
 }
-#u263 {
+#u249 {
   position:absolute;
   left:534px;
   top:560px;
   width:160px;
   height:45px;
 }
-#u264 {
+#u250 {
   position:absolute;
   left:2px;
   top:14px;
@@ -174,21 +152,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u265_img {
+#u251_img {
   position:absolute;
   left:0px;
   top:0px;
   width:160px;
   height:45px;
 }
-#u265 {
+#u251 {
   position:absolute;
   left:730px;
   top:560px;
   width:160px;
   height:45px;
 }
-#u266 {
+#u252 {
   position:absolute;
   left:2px;
   top:14px;
@@ -196,39 +174,39 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u267 {
+#u253 {
   position:absolute;
   left:751px;
   top:496px;
 }
-#u267_state0 {
+#u253_state0 {
   position:relative;
   left:0px;
   top:0px;
   background-image:none;
 }
-#u267_state0_content {
+#u253_state0_content {
   position:absolute;
   left:0px;
   top:0px;
   width:1px;
   height:1px;
 }
-#u268_img {
+#u254_img {
   position:absolute;
   left:0px;
   top:0px;
   width:46px;
   height:50px;
 }
-#u268 {
+#u254 {
   position:absolute;
   left:4px;
   top:0px;
   width:46px;
   height:50px;
 }
-#u269 {
+#u255 {
   position:absolute;
   left:2px;
   top:17px;
@@ -236,35 +214,35 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u267_state1 {
+#u253_state1 {
   position:relative;
   left:0px;
   top:0px;
   visibility:hidden;
   background-image:none;
 }
-#u267_state1_content {
+#u253_state1_content {
   position:absolute;
   left:0px;
   top:0px;
   width:1px;
   height:1px;
 }
-#u270_img {
+#u256_img {
   position:absolute;
   left:0px;
   top:0px;
   width:46px;
   height:50px;
 }
-#u270 {
+#u256 {
   position:absolute;
   left:0px;
   top:0px;
   width:46px;
   height:50px;
 }
-#u271 {
+#u257 {
   position:absolute;
   left:2px;
   top:17px;
